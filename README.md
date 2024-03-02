@@ -1,1 +1,2 @@
-# v14-moderasyon
+# Starlamayı unutmayınız ⭐
+** npm i yapmayı unutmayınız!! **
