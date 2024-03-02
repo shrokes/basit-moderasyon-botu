@@ -1,2 +1,1 @@
-# basit-moderasyon-botu
-discord.gg/altyapitr
+# v14-moderasyon
